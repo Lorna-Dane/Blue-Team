@@ -271,15 +271,3 @@ http://edr.sangfor.com.cn/backdoor_detection.html
 
 Safe3：
 http://www.uusec.com/webshell.zip
-
-
-
-# 结尾
-
-> 应急响应实战之应对各种入侵事件：
-
-- [应急响应实战之FTP暴力破解](应急响应实战之FTP暴力破解.md)
-- [应急响应实战之蠕虫病毒](应急响应实战之蠕虫病毒.md)
-- [应急响应实战之勒索病毒](应急响应实战之勒索病毒.md)
-- [应急响应实战之挖矿病毒](应急响应实战之挖矿病毒.md)
-- [应急响应实战之ARP病毒](应急响应实战之ARP病毒.md)
